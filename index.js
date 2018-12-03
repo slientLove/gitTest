@@ -3,3 +3,4 @@ console.log(meg)
 
 let second = Symbol('this is the second addText')
 console.log(second)
+console.log(third)
