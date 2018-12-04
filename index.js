@@ -9,3 +9,7 @@ console.log(four)
 
 /*********************************/
 console.log(save master status)
+
+/***************/
+console.log(stash)
+
